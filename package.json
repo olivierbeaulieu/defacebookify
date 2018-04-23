@@ -1,7 +1,7 @@
 {
   "name": "defacebookify",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Kills your nasty habit of opening facebook.com whenever you're bored by instead redirecting you to messenger.com. Talking with humans is fine, scrolling through a news feed is not.",
   "scripts": {
     "start": "npm run dev:chrome",
