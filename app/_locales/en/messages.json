@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "defacebookify",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "defacebooki",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Kills your nasty habit of opening facebook.com whenever you&#39;re bored by instead redirecting you to messenger.com. Talking with humans is fine, scrolling through a news feed is not.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "defacebookify",
+    "description": "The title of the browser action button"
+  }
+}
