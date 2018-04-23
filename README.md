@@ -1,4 +1,4 @@
-# defacebookify
+# Facebook Redirect to Messenger
 
 Kills your nasty habit of opening facebook.com whenever you're bored by instead redirecting you to messenger.com. Talking with humans is fine, scrolling through a news feed is not.
 
@@ -10,14 +10,11 @@ You can disable the redirection for 5 minutes by clicking on the extension's but
 
 ## Usage
 
-Run `$ gulp --watch` and load the `dist`-directory into chrome.
+Run `$ gulp --watch` and load the `dist` directory into chrome.
 
 ## Entryfiles (bundles)
 
-There are two kinds of entryfiles that create bundles.
-
-1. All js-files in the root of the `./app/scripts` directory
-2. All css-,scss- and less-files in the root of the `./app/styles` directory
+All js-files in the root of the `./app/scripts` directory
 
 ## Tasks
 

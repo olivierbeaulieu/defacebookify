@@ -1,5 +1,5 @@
 // Enable chromereload by uncommenting this line:
-import 'chromereload/devonly';
+// import 'chromereload/devonly';
 
 const MESSENGER_URL = 'https://www.messenger.com/';
 

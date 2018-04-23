@@ -51,39 +51,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/scripts/contentscript.js",
-			"settings":
-			{
-				"buffer_size": 407,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "node_modules/eslint-config-standard/eslintrc.json",
-			"settings":
-			{
-				"buffer_size": 6959,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".gitattributes",
-			"settings":
-			{
-				"buffer_size": 12,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".editorconfig",
-			"settings":
-			{
-				"buffer_size": 169,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -92,10 +59,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 78.0,
-		"last_filter": "",
+		"height": 400.0,
+		"last_filter": "eslit",
 		"selected_items":
 		[
+			[
+				"eslit",
+				"ESLint"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
 			[
 				"remove package",
 				"Package Control: Remove Package"
@@ -126,10 +101,6 @@
 			],
 			[
 				"foramt",
-				"Format: Javascript"
-			],
-			[
-				"format",
 				"Format: Javascript"
 			],
 			[
@@ -199,16 +170,24 @@
 	[
 		"/Users/olivier/projects/defacebookify",
 		"/Users/olivier/projects/defacebookify/app",
-		"/Users/olivier/projects/defacebookify/app/scripts",
-		"/Users/olivier/projects/defacebookify/dist"
+		"/Users/olivier/projects/defacebookify/dist",
+		"/Users/olivier/projects/defacebookify/dist/chrome",
+		"/Users/olivier/projects/defacebookify/dist/chrome/images"
 	],
 	"file_history":
 	[
-		"/Users/olivier/projects/defacebookify/app/scripts/defacebookify.sublime-project",
+		"/Users/olivier/projects/defacebookify/app/manifest.json",
 		"/Users/olivier/projects/defacebookify/.eslintrc.json",
+		"/Users/olivier/projects/defacebookify/app/scripts/contentscript.js",
+		"/Users/olivier/projects/defacebookify/app/scripts/background.js",
+		"/Users/olivier/projects/defacebookify/README.md",
+		"/Users/olivier/projects/defacebookify/tasks/build.js",
+		"/Users/olivier/projects/defacebookify/defacebookify.sublime-project",
+		"/Users/olivier/projects/defacebookify/node_modules/eslint-config-standard/eslintrc.json",
+		"/Users/olivier/projects/defacebookify/.editorconfig",
+		"/Users/olivier/projects/defacebookify/app/scripts/defacebookify.sublime-project",
 		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/User/ESLintAutoFix.sublime-settings",
 		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/ESLintAutoFix/ESLintAutoFix.sublime-settings",
-		"/Users/olivier/projects/defacebookify/app/scripts/contentscript.js",
 		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
 		"/Users/olivier/projects/defacebookify/package.json",
 		"/Users/olivier/Desktop/bf.js",
@@ -324,18 +303,11 @@
 		"/Users/olivier/projects/microblog/config.py",
 		"/Users/olivier/projects/microblog/app/templates/500.html",
 		"/Users/olivier/projects/microblog/app/templates/404.html",
-		"/Users/olivier/projects/microblog/runp.py",
-		"/Users/olivier/projects/microblog/app/templates/user.html",
-		"/Users/olivier/Downloads/microblog-version-0.7/app/templates/login.html",
-		"/Users/olivier/projects/microblog/app/templates/post.html",
-		"/Users/olivier/projects/microblog/app/templates/base.html",
-		"/Users/olivier/projects/microblog/db_upgrade.py",
-		"/Users/olivier/projects/microblog/flask/pyvenv.cfg",
-		"/Users/olivier/projects/microblog/flask/bin/activate.csh"
+		"/Users/olivier/projects/microblog/runp.py"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -349,6 +321,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"imageData",
+			"path",
+			"details: {",
+			": 'images",
+			"pageAction",
+			"browserAction",
+			"pageAction",
+			".png",
+			"\"",
+			"isEnabled",
+			"isRedirectEnabled",
+			"callback",
+			"sendBackgroundMessage",
+			"redirectDisabledTimeout",
+			"disableRedirectTemporarily",
+			"isRedirectEnabled",
+			"DISABLE_TIMEOUT",
+			"redirectDisabledTimeout",
+			"isRedirectEnabled"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -366,133 +357,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/scripts/contentscript.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								407,
-								407
-							]
-						],
-						"settings":
-						{
-							"SL.15.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"SL.53.region_keys":
-							[
-								"sublime_linter.protected_regions",
-								"SL.eslint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
-								"SL.eslint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "node_modules/eslint-config-standard/eslintrc.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6959,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": ".gitattributes",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 12,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": ".editorconfig",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -556,6 +422,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"eslint",
+				".eslintrc.json"
+			],
+			[
+				"manifest",
+				"app/manifest.json"
+			],
+			[
+				"project",
+				"defacebookify.sublime-project"
+			],
 			[
 				"editconf",
 				".editorconfig"
