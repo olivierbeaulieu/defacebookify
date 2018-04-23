@@ -1,0 +1,16 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+        "webextensions": true,
+        "browser": true
+    },
+    "rules": {
+        "no-console": 0,
+        "import/no-unresolved": "never",
+        "import/extensions": "ignorePackages",
+        "no-restricted-globals": 0,
+        "no-unused-vars": ["error", { "args": "none" }],
+        "eol-last": 0,
+        "quote-props": ["error", "as-needed", { "numbers": true }]
+    }
+}

@@ -1,0 +1,1081 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"posts_",
+				"post_urls"
+			],
+			[
+				"insert",
+				"insert_string"
+			],
+			[
+				"reading",
+				"reading_time"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"MAIL",
+				"MAIL_PORT"
+			],
+			[
+				"login_",
+				"login_required"
+			],
+			[
+				"logou",
+				"logout_user"
+			],
+			[
+				"remem",
+				"remember_me"
+			],
+			[
+				"SQLAL",
+				"SQLALCHEMY_MIGRATE_REPO"
+			],
+			[
+				"SQL",
+				"SQLALCHEMY_MIGRATE_REPO"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contentscript.js",
+			"settings":
+			{
+				"buffer_size": 407,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/olivier/projects/defacebookify/node_modules/eslint-config-standard/eslintrc.json",
+			"settings":
+			{
+				"buffer_size": 6959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/olivier/projects/defacebookify/.gitattributes",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/olivier/projects/defacebookify/.editorconfig",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 78.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"e",
+				"eslintAutoFix"
+			],
+			[
+				"eslint",
+				"eslintAutoFix"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"skins",
+				"Preferences: Skins Settings"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"foramt",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"delete",
+				"ANF: Delete File"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"con tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ss docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"ss scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"ss go",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/olivier/projects/defacebookify",
+		"/Users/olivier/projects/defacebookify/app",
+		"/Users/olivier/projects/defacebookify/app/scripts",
+		"/Users/olivier/projects/defacebookify/dist"
+	],
+	"file_history":
+	[
+		"/Users/olivier/projects/defacebookify/app/scripts/defacebookify.sublime-project",
+		"/Users/olivier/projects/defacebookify/.eslintrc.json",
+		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/User/ESLintAutoFix.sublime-settings",
+		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/ESLintAutoFix/ESLintAutoFix.sublime-settings",
+		"/Users/olivier/projects/defacebookify/app/scripts/contentscript.js",
+		"/Users/olivier/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+		"/Users/olivier/projects/defacebookify/package.json",
+		"/Users/olivier/Desktop/bf.js",
+		"/Users/olivier/projects/streisand/README.md",
+		"/Users/olivier/projects/hatchery/hatchery/templates/alittledetour.yaml",
+		"/Users/olivier/projects/westbound-website/nginx/nginx.conf",
+		"/Users/olivier/projects/westbound-website/docker-build.sh",
+		"/Users/olivier/projects/westbound-website/app/views.py",
+		"/Users/olivier/projects/westbound-website/app/templates/metric-blocks.html",
+		"/Users/olivier/projects/westbound-website/Dockerfile",
+		"/Users/olivier/projects/westbound-website/pip-requirements.txt",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/flask/app.py",
+		"/Users/olivier/projects/westbound-website/docker-compose.yml",
+		"/Users/olivier/projects/westbound-website/deploy.sh",
+		"/Users/olivier/projects/westbound-website/app/medium_helpers.py",
+		"/Users/olivier/projects/westbound-website/app/templates/index.html",
+		"/Users/olivier/projects/westbound-website/app/model_helpers.py",
+		"/Users/olivier/projects/westbound-website/app/templates/base.html",
+		"/Users/olivier/projects/westbound-website/app/models.py",
+		"/Users/olivier/projects/westbound-website/app/templates/admin.html",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/pbr/cmd/main.py",
+		"/Users/olivier/projects/westbound-website/ingress.yml",
+		"/Users/olivier/.zshrc",
+		"/etc/hosts",
+		"/Users/olivier/projects/westbound-website/app/nginx.yml",
+		"/Users/olivier/projects/westbound-website/nginx-controller.yml",
+		"/Users/olivier/projects/westbound-website/nginx.yml",
+		"/Users/olivier/Library/Keybindings/DefaultKeyBinding.dict",
+		"/Users/olivier/projects/westbound-website/app/templates/latest-medium-posts.html",
+		"/Users/olivier/projects/westbound-website/app/templates/blog.html",
+		"/Users/olivier/projects/westbound-website/deployment.yml",
+		"/Users/olivier/projects/westbound-website/default-backend.yml",
+		"/Users/olivier/projects/westbound-website/token.yml",
+		"/Users/olivier/projects/westbound-website/app/templates/current-location-hero.html",
+		"/Users/olivier/projects/westbound-website/app/assets/style.scss",
+		"/Users/olivier/projects/westbound-website/app/templates/blog-post.html",
+		"/Users/olivier/projects/westbound-website/app/__init__.py",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/sqlalchemy/log.py",
+		"/Users/olivier/Desktop/medium-post.json",
+		"/Users/olivier/projects/westbound-website/app/templates/about-us.html",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/requests/api.py",
+		"/Users/olivier/projects/westbound-website/app/templates/blog-post-author-block.html",
+		"/Users/olivier/projects/westbound-website/app/post.py",
+		"/Users/olivier/projects/westbound-website/config.py",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/scss/extension/core.py",
+		"/Users/olivier/projects/westbound-website/run.py",
+		"/Users/olivier/projects/westbound-website/app/templates/404.html",
+		"/Users/olivier/projects/westbound-website/runp.py",
+		"/Users/olivier/projects/westbound-website/pod.yml",
+		"/Users/olivier/projects/westbound-website/test.yml",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/decorator.py",
+		"/Users/olivier/projects/westbound-website/westbound-venv/bin/python-config",
+		"/Users/olivier/projects/westbound-website/westbound-venv/AUTHORS",
+		"/Users/olivier/projects/westbound-website/app/static/all.css",
+		"/Users/olivier/projects/westbound-website/app/assets/_flexboxgrid.scss",
+		"/Users/olivier/projects/westbound-website/scratch.py",
+		"/Users/olivier/projects/westbound-website/app/static/scripts/main.js",
+		"/tmp/subl stdin fRW7wL.txt",
+		"/Users/olivier/projects/westbound-website/app/templates/mailchimp-form.html",
+		"/Users/olivier/.config/fish/config.fish",
+		"/Users/olivier/projects/westbound-website/.gitignore",
+		"/tmp/subl stdin o1i7Ag.txt",
+		"/Users/olivier/projects/westbound-website/docker-run.sh",
+		"/tmp/subl stdin WCsSGq.txt",
+		"/tmp/subl stdin MzWng5.txt",
+		"/tmp/subl stdin iyIrrD.txt",
+		"/tmp/subl stdin XupLRL.txt",
+		"/tmp/subl stdin Ekcg5E.txt",
+		"/tmp/subl stdin Jj1q9B.txt",
+		"/tmp/subl stdin YWwHrK.txt",
+		"/tmp/subl stdin FXlUcE.txt",
+		"/Users/olivier/Downloads/paper-plane-handmade-folded-shape.png",
+		"/Users/olivier/Downloads/paper-plane-handmade-folded-shape.svg",
+		"/Users/olivier/projects/westbound-website/,",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/utils.py",
+		"/Users/olivier/projects/westbound-website/app/index.html",
+		"/Users/olivier/projects/westbound-website/westbound-venv/lib/python3.6/site-packages/itsdangerous.py",
+		"/Users/olivier/projects/westbound-website/app/assets/_reset.scss",
+		"/Users/olivier/projects/westbound-website/app/assets/scss/style.scss",
+		"/Users/olivier/projects/westbound-website/app/static/.gitkeep",
+		"/Users/olivier/projects/westbound-website/app/assets/style.css",
+		"/Users/olivier/projects/westbound-website/app/scss/scss/style.scss",
+		"/Users/olivier/static/.gitkeep",
+		"/Users/olivier/projects/westbound-website/app/scss/style.scss",
+		"/Users/olivier/projects/westbound-website/app/static/css/.gitkeep",
+		"/Users/olivier/projects/westbound-website/app/templates/static",
+		"/Users/olivier/projects/westbound-website/app/templates/assets",
+		"/Users/olivier/projects/westbound-website/app/static/style.css",
+		"/Users/olivier/projects/microblog/app/views.py",
+		"/Users/olivier/projects/westbound-website/db_migrate.py",
+		"/Users/olivier/projects/microblog/run.py",
+		"/Users/olivier/projects/microblog/app/__init__.py",
+		"/Users/olivier/projects/westbound-website/db_create.py",
+		"/Users/olivier/projects/westbound-website/db_downgrade.py",
+		"/Users/olivier/projects/westbound-website/db_upgrade.py",
+		"/Users/olivier/projects/westbound-website/db_upgarde.py",
+		"/Users/olivier/Desktop/comfirmationnumber-united.txt",
+		"/Users/olivier/projects/maeghan-website/build-and-deploy.sh",
+		"/Users/olivier/projects/maeghan-website/depoyment.yaml",
+		"/Users/olivier/projects/maeghan-website/Dockerfile",
+		"/Users/olivier/projects/maeghan-website/build.shj",
+		"/Users/olivier/build.sh",
+		"/Users/olivier/projects/westbound-website/deployment.yaml",
+		"/Users/olivier/projects/westbound-website/src/index.html",
+		"/tmp/subl stdin FBvRQa.txt",
+		"/Users/olivier/projects/westbound-website/nginx/mime.types",
+		"/Users/olivier/projects/microblog/app/forms.py",
+		"/Users/olivier/projects/microblog/app/models.py",
+		"/Users/olivier/projects/microblog/tests.py",
+		"/Users/olivier/projects/microblog/app/templates/edit.html",
+		"/Users/olivier/projects/microblog/db_create.py",
+		"/Users/olivier/projects/microblog/db_downgrade.py",
+		"/Users/olivier/projects/microblog/config.py",
+		"/Users/olivier/projects/microblog/app/templates/500.html",
+		"/Users/olivier/projects/microblog/app/templates/404.html",
+		"/Users/olivier/projects/microblog/runp.py",
+		"/Users/olivier/projects/microblog/app/templates/user.html",
+		"/Users/olivier/Downloads/microblog-version-0.7/app/templates/login.html",
+		"/Users/olivier/projects/microblog/app/templates/post.html",
+		"/Users/olivier/projects/microblog/app/templates/base.html",
+		"/Users/olivier/projects/microblog/db_upgrade.py",
+		"/Users/olivier/projects/microblog/flask/pyvenv.cfg",
+		"/Users/olivier/projects/microblog/flask/bin/activate.csh"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contentscript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.53.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.eslint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/olivier/projects/defacebookify/node_modules/eslint-config-standard/eslintrc.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/olivier/projects/defacebookify/.gitattributes",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/olivier/projects/defacebookify/.editorconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "defacebookify.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"editconf",
+				".editorconfig"
+			],
+			[
+				"eslintjson",
+				"node_modules/eslint-config-standard/eslintrc.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"nginx",
+				"nginx/nginx.conf"
+			],
+			[
+				"dockerbuild",
+				"docker-build.sh"
+			],
+			[
+				"req",
+				"pip-requirements.txt"
+			],
+			[
+				"do",
+				"Dockerfile"
+			],
+			[
+				"block",
+				"app/templates/metric-blocks.html"
+			],
+			[
+				"views",
+				"app/views.py"
+			],
+			[
+				"app",
+				"westbound-venv/lib/python3.6/site-packages/flask/app.py"
+			],
+			[
+				"view",
+				"app/views.py"
+			],
+			[
+				"dockerfile",
+				"Dockerfile"
+			],
+			[
+				"deploy",
+				"deploy.sh"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"pipreq",
+				"pip-requirements.txt"
+			],
+			[
+				"mediumhe",
+				"app/medium_helpers.py"
+			],
+			[
+				"mtricblocks",
+				"app/templates/metric-blocks.html"
+			],
+			[
+				".html",
+				"app/templates/index.html"
+			],
+			[
+				"app.py",
+				"westbound-venv/lib/python3.6/site-packages/flask/app.py"
+			],
+			[
+				"helpers",
+				"app/model_helpers.py"
+			],
+			[
+				"vies",
+				"app/views.py"
+			],
+			[
+				"medu",
+				"app/medium_helpers.py"
+			],
+			[
+				"meidumhelper",
+				"app/medium_helpers.py"
+			],
+			[
+				"metrics",
+				"app/templates/metric-blocks.html"
+			],
+			[
+				"base.html",
+				"app/templates/base.html"
+			],
+			[
+				"admin",
+				"app/templates/admin.html"
+			],
+			[
+				"modelhelp",
+				"app/model_helpers.py"
+			],
+			[
+				"model",
+				"app/models.py"
+			],
+			[
+				"html",
+				"app/templates/base.html"
+			],
+			[
+				"main",
+				"westbound-venv/lib/python3.6/site-packages/pbr/cmd/main.py"
+			],
+			[
+				"nginx.",
+				"nginx.yml"
+			],
+			[
+				"mediumhel",
+				"app/medium_helpers.py"
+			],
+			[
+				"deploy.sh",
+				"deploy.sh"
+			],
+			[
+				".yml",
+				"deployment.yml"
+			],
+			[
+				"stlye.scss",
+				"app/assets/style.scss"
+			],
+			[
+				"style.",
+				"app/assets/style.scss"
+			],
+			[
+				"current",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"style.scss",
+				"app/assets/style.scss"
+			],
+			[
+				"blogpost",
+				"app/templates/blog-post.html"
+			],
+			[
+				"initp",
+				"app/__init__.py"
+			],
+			[
+				"style",
+				"app/assets/style.scss"
+			],
+			[
+				"blog",
+				"app/templates/blog.html"
+			],
+			[
+				"init.py",
+				"app/__init__.py"
+			],
+			[
+				"mediumhelp",
+				"app/medium_helpers.py"
+			],
+			[
+				"bloghtml",
+				"app/templates/blog.html"
+			],
+			[
+				"blog.py",
+				"westbound-venv/lib/python3.6/site-packages/sqlalchemy/log.py"
+			],
+			[
+				"_init",
+				"app/__init__.py"
+			],
+			[
+				"medium",
+				"app/medium_helpers.py"
+			],
+			[
+				"views.py",
+				"app/views.py"
+			],
+			[
+				"mediumpost",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"aboutus",
+				"app/templates/about-us.html"
+			],
+			[
+				"metric",
+				"app/templates/metric-blocks.html"
+			],
+			[
+				"index",
+				"app/templates/index.html"
+			],
+			[
+				"requestsapi",
+				"westbound-venv/lib/python3.6/site-packages/requests/api.py"
+			],
+			[
+				"mediumhelper",
+				"app/medium_helpers.py"
+			],
+			[
+				"post.py",
+				"app/post.py"
+			],
+			[
+				"config",
+				"config.py"
+			],
+			[
+				"latest",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"latestmed",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"initpy",
+				"app/__init__.py"
+			],
+			[
+				"style.scs",
+				"app/assets/style.scss"
+			],
+			[
+				"yml",
+				"deployment.yml"
+			],
+			[
+				"base",
+				"app/templates/base.html"
+			],
+			[
+				"currentlocal",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"models",
+				"app/models.py"
+			],
+			[
+				"modelhelper",
+				"app/model_helpers.py"
+			],
+			[
+				"init",
+				"app/__init__.py"
+			],
+			[
+				"run.py",
+				"run.py"
+			],
+			[
+				"currentloca",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"run",
+				"run.py"
+			],
+			[
+				"hero",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"deployment",
+				"deployment.yml"
+			],
+			[
+				"runp",
+				"runp.py"
+			],
+			[
+				"currentlocationhero",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"blog.html",
+				"app/templates/blog.html"
+			],
+			[
+				"aboutus.",
+				"app/templates/about-us.html"
+			],
+			[
+				"index.html",
+				"app/templates/index.html"
+			],
+			[
+				"authors",
+				"westbound-venv/AUTHORS"
+			],
+			[
+				"all.css",
+				"app/static/all.css"
+			],
+			[
+				"flexbox",
+				"app/assets/_flexboxgrid.scss"
+			],
+			[
+				"scrap",
+				"scratch.py"
+			],
+			[
+				"helper",
+				"app/model_helpers.py"
+			],
+			[
+				"views.",
+				"app/views.py"
+			],
+			[
+				"main.js",
+				"app/static/scripts/main.js"
+			],
+			[
+				"latestmedium",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"latestme",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"mailc",
+				"app/templates/mailchimp-form.html"
+			],
+			[
+				"hero.html",
+				"app/templates/current-location-hero.html"
+			],
+			[
+				"boutus",
+				"app/templates/about-us.html"
+			],
+			[
+				"metricblocks",
+				"app/templates/metric-blocks.html"
+			],
+			[
+				"mediumposts",
+				"app/templates/latest-medium-posts.html"
+			],
+			[
+				"mailchimp",
+				"app/templates/mailchimp-form.html"
+			],
+			[
+				".gitg",
+				".gitignore"
+			],
+			[
+				"dockerifle",
+				"Dockerfile"
+			],
+			[
+				"dockerrun",
+				"docker-run.sh"
+			],
+			[
+				"scrath",
+				"scratch.py"
+			],
+			[
+				"tempindex",
+				"app/templates/index.html"
+			],
+			[
+				"tempbase",
+				"app/templates/base.html"
+			],
+			[
+				"dockerbil",
+				"docker-build.sh"
+			],
+			[
+				"views.p",
+				"app/views.py"
+			],
+			[
+				"runpu",
+				"westbound-venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/utils.py"
+			],
+			[
+				"require",
+				"pip-requirements.txt"
+			],
+			[
+				"requirement",
+				"pip-requirements.txt"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"initpu",
+				"westbound-venv/lib/python3.6/site-packages/itsdangerous.py"
+			],
+			[
+				"modes",
+				"app/models.py"
+			],
+			[
+				"tests",
+				"tests.py"
+			],
+			[
+				"dbcreate",
+				"db_create.py"
+			],
+			[
+				"edit",
+				"app/templates/edit.html"
+			],
+			[
+				"forms",
+				"app/forms.py"
+			],
+			[
+				"form",
+				"app/forms.py"
+			],
+			[
+				"userhtml",
+				"app/templates/user.html"
+			],
+			[
+				"viewspy",
+				"app/views.py"
+			],
+			[
+				"formspy",
+				"app/forms.py"
+			],
+			[
+				"user",
+				"app/templates/user.html"
+			],
+			[
+				"user.html",
+				"app/templates/user.html"
+			],
+			[
+				"basehtml",
+				"app/templates/base.html"
+			],
+			[
+				"viewpy",
+				"app/views.py"
+			],
+			[
+				"configpy",
+				"config.py"
+			],
+			[
+				"loginhtml",
+				"app/templates/login.html"
+			],
+			[
+				"appviews",
+				"app/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"west",
+				"~/projects/westbound-website/westbound.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -12,23 +12,23 @@
  * introduced a feature or made a backwards-incompatible release.
  */
 
-import gulp from 'gulp'
-import git from 'gulp-git'
-import bump from 'gulp-bump'
-import filter from 'gulp-filter'
-import tagVersion from 'gulp-tag-version'
+import gulp from 'gulp';
+import git from 'gulp-git';
+import bump from 'gulp-bump';
+import filter from 'gulp-filter';
+import tagVersion from 'gulp-tag-version';
 
-function inc (importance) {
+function inc(importance) {
   // get all the files to bump version in
   return gulp.src([
     'package.json',
-    'app/manifest.json'
+    'app/manifest.json',
   ], {
-    base: './'
+    base: './',
   })
     // bump the version number in those files
     .pipe(bump({
-      type: importance
+      type: importance,
     }))
     // save it back to filesystem
     .pipe(gulp.dest('./'))
@@ -37,17 +37,11 @@ function inc (importance) {
     // read only one file to get the version number
     .pipe(filter('package.json'))
     // **tag it in the repository**
-    .pipe(tagVersion())
+    .pipe(tagVersion());
 }
 
-gulp.task('patch', () => {
-  return inc('patch')
-})
+gulp.task('patch', () => inc('patch'));
 
-gulp.task('feature', () => {
-  return inc('minor')
-})
+gulp.task('feature', () => inc('minor'));
 
-gulp.task('release', () => {
-  return inc('major')
-})
+gulp.task('release', () => inc('major'));

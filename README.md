@@ -2,6 +2,8 @@
 
 Kills your nasty habit of opening facebook.com whenever you're bored by instead redirecting you to messenger.com. Talking with humans is fine, scrolling through a news feed is not.
 
+You can disable the redirection for 5 minutes by clicking on the extension's button.
+
 ## Installation
 
 	$ npm install

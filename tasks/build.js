@@ -5,8 +5,6 @@ gulp.task('build', gulpSequence(
   'clean', [
     'manifest',
     'scripts',
-    'styles',
-    'pages',
     'locales',
     'images',
     'fonts',
